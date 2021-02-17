@@ -10,3 +10,5 @@ for i in range(bounce):
     height_update = height_start * ratio
     height_start = height_update
     print(i, round(height_update, 4))
+
+print(f'the bounce is {bounce} and ratio is {ratio}')
