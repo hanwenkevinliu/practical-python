@@ -2,7 +2,7 @@
 #
 # Exercise 1.5
 
-height_start = 100
+height_start = 200
 ratio = 3/5
 bounce = 10
 
